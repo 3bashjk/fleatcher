@@ -1,0 +1,11 @@
+# Ignore system files and directories
+AppData/
+.vscode/
+*.tmp
+*.log
+
+# Unreal Engine specific ignores
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
